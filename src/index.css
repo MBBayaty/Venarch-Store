@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "Sansi";
+    src: url(./fonts/Sansi.woff) format('woff');
+  }
+
+* {
+    padding: 0;
+    margin: 0;
+    font-family: "Sansi", Arial, Helvetica, sans-serif ;
+} 

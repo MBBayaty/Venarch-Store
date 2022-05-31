@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    justify-content: space-around;
+    background-color: #FFEEEE;
+    padding: 80px 80px;
+    align-items: center;
+    direction: rtl;
+    margin: 20px;
+}
+
+.container input {
+    width: 300px ;
+    height: 40px ;
+    border-radius: 10px;
+    border: none;
+    padding: 10px;
+}
+
+.container input::placeholder {
+    font-size: 1rem;
+}
